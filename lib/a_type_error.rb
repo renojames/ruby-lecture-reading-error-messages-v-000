@@ -1,3 +1,3 @@
 1 + 1
 
-puts "is the loneliest number"
+puts "one is the loneliest number"
